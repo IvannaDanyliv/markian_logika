@@ -1,0 +1,37 @@
+.logo{
+    width: 60px;
+    height: 60px;
+}
+body{
+    background-color:rgb(168, 147, 108);
+    font-size: 30px;
+
+}
+main img{
+     width: 200px;
+    height: 150px;
+     background-color:rgb(85, 108, 85);
+     border:3px solid brown;}
+a{
+     background-color:green;
+     color:Azure;
+}
+main{
+     background-color:#c6ae76;
+}
+p{
+     text-align: center;
+     padding: 20px
+}
+footer{
+   background-color:#868162;
+}  
+h2{
+      width: 100px;
+    height: 100px;
+}
+h3{
+     color:rgb(208, 244, 244);
+    
+}
+
